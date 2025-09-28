@@ -9,7 +9,7 @@
 ## 2. Kitty, fonts, nvim
 
 ```bash
-brew install kitty font-ibm-plex-mono neovim tree
+brew install kitty font-ibm-plex-mono vim tree
 source ~/.zshrc
 ```
 
