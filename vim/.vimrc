@@ -48,6 +48,9 @@ set number
 
 " set tabs config and use spaces instead of tab
 set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+
 
 " highlight searched word
 set hlsearch
