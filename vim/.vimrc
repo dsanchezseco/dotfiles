@@ -31,12 +31,14 @@ endfunction
 " Run this when Vim starts
 autocmd VimEnter * call s:SmartNERDTree()
 
-
 " disable terminal colorscheme propagation
 set termguicolors
 
 " disable vi compatibility
 set nocompatible
+
+" unmap Ex mode command
+map Q <Nop>
 
 " enable language specific config and highlight
 filetype on
