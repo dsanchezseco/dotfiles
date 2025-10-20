@@ -48,6 +48,9 @@ syntax on
 " show line numbers
 set number
 
+" show 80 line mark
+set colorcolumn=80
+
 " set tabs config and use spaces instead of tab
 set tabstop=4
 set shiftwidth=4
